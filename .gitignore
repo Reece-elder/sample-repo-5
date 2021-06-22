@@ -1,0 +1,6 @@
+
+# ignores file called ignoreMe.txt
+ignoreMe.txt
+
+# ignore .gitignore
+# .gitignore
